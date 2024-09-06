@@ -11,6 +11,19 @@ body{
     background-color: #f7bcf7;
 }
 
+h1 {
+    font-family: 'Poppins', sans-serif; 
+    font-size: 3rem; 
+    color: #e06fe0; 
+    text-align: center; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+    letter-spacing: 1px; 
+    font-weight: bold; 
+    text-transform: uppercase;
+}
+
 .container{
     background-color: #ffffff;
     width: 90vmin;
@@ -90,7 +103,11 @@ body{
 
 .word-meaning {
     color: #ae9cff;
-}
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    margin-top: 10px;
+    }
+
 .word-example {
     color: #ae9cff;
     font-style: italic;
