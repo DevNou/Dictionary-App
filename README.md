@@ -1,2 +1,2 @@
 # Dictionary-App
-Dictionary App with Js
+Dictionary App with Js,HTML,Css
